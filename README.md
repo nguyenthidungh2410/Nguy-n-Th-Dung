@@ -1,127 +1,107 @@
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Nguyễn Thị Dung | Portfolio</title>
-  <link rel="stylesheet" href="style.css" />
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
-</head>
-<body>
+<h1>Nguyễn Thị Dung</h1>
+<h2>Communication • Finance • Business • Content Creator</h2>
 
-  <header class="hero">
-    <div class="hero-content">
-      <h1>Nguyễn Thị Dung</h1>
-      <h2>Content Creator • Finance • Business • Communication</h2>
-      <p>
-        Sinh viên <b>Tài chính Quốc tế & Tiếng Nhật Thương mại</b> – Đại học Ngoại thương.
-        Content Creator kênh <b>Hành tinh văn học</b> với hơn <b>15.000+ followers</b>.
-        Thông thạo 3 ngoại ngữ: <b>Anh – Trung – Nhật</b>. Kinh nghiệm làm việc tại
-        <b>Tập đoàn Mitsubishi (Nhật Bản)</b>.
-      </p>
-      <a href="#contact" class="btn">Contact Me</a>
+<p>
+FTU student majoring in <b>International Finance & Japanese Business</b>,
+passionate about <b>communication, finance, and business strategy</b>.
+I aim to combine <b>data-driven thinking, creative storytelling, and
+commercial insight</b> to create meaningful impact in modern organizations.
+</p>
+<section id="about">
+  <h2>About Me</h2>
+  <p>
+    I am currently a student at <b>Foreign Trade University (FTU), Vietnam</b>,
+    majoring in <b>International Finance and Japanese Business</b>. With a strong
+    passion for <b>communication, finance, and business development</b>, I
+    continuously seek opportunities to expand my professional capabilities
+    in a competitive and globalized environment.
+  </p>
+
+  <p>
+    Alongside my academic journey, I am also a <b>content creator</b>, managing
+    the educational platform <b>"Hành tinh văn học"</b> with over
+    <b>15,000+ followers</b>. Through this platform, I develop creative content,
+    storytelling strategies, and community engagement campaigns.
+  </p>
+
+  <p>
+    My long-term goal is to pursue a career in <b>corporate finance,
+    international business, or strategic communication</b>, especially in
+    multinational corporations where innovation, data, and creativity meet.
+  </p>
+</section>
+<section id="skills">
+  <h2>Skills</h2>
+
+  <div class="grid">
+    <div>
+      <h3>Finance & Business</h3>
+      <ul>
+        <li>Financial Analysis</li>
+        <li>Financial Modeling</li>
+        <li>Market Research</li>
+        <li>Business Strategy</li>
+      </ul>
     </div>
-  </header>
 
-  <section id="about" class="section">
-    <h2>About Me</h2>
+
+</section>
+<section id="projects">
+  <h2>Projects & Experience</h2>
+
+  <div class="project">
+    <h3>Hành tinh văn học – Content Platform</h3>
     <p>
-      Tôi là sinh viên Đại học Ngoại thương, theo học ngành <b>Tài chính Quốc tế & Tiếng Nhật Thương mại</b>.
-      Tôi đam mê <b>truyền thông, tài chính và kinh doanh</b>, đặc biệt quan tâm đến cách kết hợp
-      dữ liệu, tư duy chiến lược và sáng tạo nội dung để tạo ra giá trị bền vững.
+      Built and managed a literature & education content platform with
+      <b>15,000+ followers</b>. Responsible for content strategy, creative
+      direction, social media growth, and community engagement.
     </p>
+  </div>
+
+  <div class="project">
+    <h3>Market Research Report – Vietnamese Youth Consumers</h3>
     <p>
-      Song song với học tập, tôi xây dựng và phát triển kênh <b>Hành tinh văn học</b> – nền tảng
-      chia sẻ kiến thức và cảm hứng học tập, thu hút hơn <b>15.000 người theo dõi</b>.
+      Conducted market research on Gen Z consumer behavior, analyzing brand
+      trust, sustainability perception, and purchasing intention in the
+      Vietnamese F&B industry.
     </p>
-  </section>
+  </div>
 
-  <section id="skills" class="section dark">
-    <h2>Skills</h2>
-    <div class="grid">
-      <div class="card">
-        <h3>Finance & Business</h3>
-        <ul>
-          <li>Financial Analysis</li>
-          <li>Financial Modeling</li>
-          <li>Market Research</li>
-          <li>Business Strategy</li>
-        </ul>
-      </div>
+  <div class="project">
+    <h3>Internship – Mitsubishi Corporation (Japan)</h3>
+    <p>
+      Participated in business operations support, market analysis, and
+      corporate communication activities in a Japanese multinational working
+      environment.
+    </p>
+  </div>
 
-      <div class="card">
-        <h3>Communication & Marketing</h3>
-        <ul>
-          <li>Content Creation</li>
-          <li>Social Media Strategy</li>
-          <li>Digital Marketing</li>
-          <li>Brand Storytelling</li>
-        </ul>
-      </div>
-
-      <div class="card">
-        <h3>Languages</h3>
-        <ul>
-          <li>English – Fluent</li>
-          <li>Chinese – Intermediate</li>
-          <li>Japanese – Business Level</li>
-        </ul>
-      </div>
-
-      <div class="card">
-        <h3>Tools</h3>
-        <ul>
-          <li>Excel</li>
-          <li>Power BI</li>
-          <li>Canva</li>
-          <li>CapCut</li>
-        </ul>
-      </div>
-    </div>
-  </section>
-
-    <section id="certifications" class="section">
-    <h2>Language Certifications</h2>
-    <div class="grid">
-      <div class="card">
-        <h3>English</h3>
-        <p>IELTS 7.5+ (Academic)</p>
-      </div>
-      <div class="card">
-        <h3>Chinese</h3>
-        <p>HSK 5 – Advanced Communication</p>
-      </div>
-      <div class="card">
-        <h3>Japanese</h3>
-        <p>JLPT N2 – Business Communication Level</p>
-      </div>
-    </div>
-  </section>
-
-  <section id="experience" class="section">
-    <h2>Experience & Projects</h2>
-
-    <div class="timeline">
-      <div class="item">
-        <h3>Hành tinh văn học</h3>
-        <span>Content Creator | 15,000+ Followers</span>
-        <p>Xây dựng chiến lược nội dung, sáng tạo video – bài viết, phát triển cộng đồng học tập.</p>
-      </div>
-
-      <div class="item">
-        <h3>Mitsubishi Corporation – Japan</h3>
-        <span>Business Intern</span>
-        <p>Hỗ trợ phân tích thị trường, truyền thông nội bộ và hoạt động kinh doanh quốc tế.</p>
-      </div>
-
-      <div class="item">
-        <h3>Market Research Projects</h3>
-        <span>FTU Student Projects</span>
-        <p>Nghiên cứu hành vi người tiêu dùng Gen Z, phân tích dữ liệu & lập báo cáo chiến lược.</p>
-      </div>
-    </div>
-  </section>
-
+  <div class="project">
+    <h3>Business Case Competition Projects</h3>
+    <p>
+      Worked on multiple business case studies involving financial evaluation,
+      marketing strategy development, and data-driven decision making.
+    </p>
+  </div>
+</section>
+<section id="education">
+  <h2>Education</h2>
+  <p>
+    <b>Foreign Trade University (FTU)</b><br>
+    Major: International Finance & Japanese Business<br>
+    Focus: Corporate Finance, International Trade, Marketing Strategy, Business Analysis
+  </p>
+</section>
+<section id="certifications">
+  <h2>Certifications</h2>
+  <ul>
+    <li>IELTS / TOEIC – Advanced English Proficiency</li>
+    <li>Chinese Language Certificate (HSK)</li>
+    <li>Japanese Language Certificate (JLPT)</li>
+    <li>Financial Modeling Foundations</li>
+    <li>Data Analytics & Power BI</li>
+  </ul>
+</section>
   <section id="contact" class="section dark">
     <h2>Contact</h2>
     <p>Email: dungnguyen@gmail.com</p>

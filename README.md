@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -77,6 +76,24 @@
           <li>Canva</li>
           <li>CapCut</li>
         </ul>
+      </div>
+    </div>
+  </section>
+
+    <section id="certifications" class="section">
+    <h2>Language Certifications</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>English</h3>
+        <p>IELTS 7.5+ (Academic)</p>
+      </div>
+      <div class="card">
+        <h3>Chinese</h3>
+        <p>HSK 5 – Advanced Communication</p>
+      </div>
+      <div class="card">
+        <h3>Japanese</h3>
+        <p>JLPT N2 – Business Communication Level</p>
       </div>
     </div>
   </section>
